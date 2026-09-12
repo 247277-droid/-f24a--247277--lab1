@@ -28,3 +28,9 @@ nav {
   background: #eee;
   padding: 1rem;
 }
+nav {
+  background: #eee;
+  padding: 1rem;
+  display: flex;
+  gap: 1rem;
+}
