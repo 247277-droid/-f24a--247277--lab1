@@ -18,3 +18,13 @@
   background: red;
   transition: transform 0.3s;
 }
+header, footer {
+  background: #1a2744;
+  color: #fff;
+  padding: 1rem;
+}
+
+nav {
+  background: #eee;
+  padding: 1rem;
+}
