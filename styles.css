@@ -12,3 +12,9 @@
 .square:hover {
   transform: translateX(60px);
 }
+.square {
+  width: 80px;
+  height: 80px;
+  background: red;
+  transition: transform 0.3s;
+}
